@@ -1,5 +1,5 @@
-## DSA Lab Exam 
-- This repository consists of solutions to several DSA (Data Structures and Algorithms) problems implemented in Python. Below is a brief overview of each problem and its solution:
+# DSA Lab Exam 
+- This repository consists of solutions to several DSA (Data Structures and Algorithms) problems implemented in Python. Below is a brief overview of each problem:
 
 # 1. Number Search Program
 - Problem Description
