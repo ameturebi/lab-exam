@@ -36,6 +36,6 @@ Use mergesort to sort the numbers entered in question 1.
 - Solution
 The solution applies the mergesort algorithm to sort the numbers entered in question 1, ensuring efficient and stable sorting.
 
-- Submitted By :-
- Ekram Shemsu
- UGR/0903/15
+### Submitted By :-
+#### Ekram Shemsu
+#### UGR/0903/15
